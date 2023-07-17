@@ -46,27 +46,19 @@
     {
       "name": "Pokédex utilizando HTML, CSS e JavaScript",
       "url": "https://github.com/LuanGDantas/pokedex",
-      "git": true
+      "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "name": "Desenvolvedor de Back-end",
-      "descricao": "Bolsista do projeto de extensão e iniciação cientifica Regularização Fundiária Urbana das Unidades Habitacionais dos Diversos Municípios que Compõem o Estado do Rio Grande do Norte (REURB). Projeto com foco no desenvolvimento de um sistema de regularização fundiária urbana voltado a garantir o direito à moradia por parte dos residentes de assentamentos informais.",
-      "instituicao": "Núcleo Acesso à Terra Urbanizada",
-      "periodo": {
-        "inicio": "08/2021",
-        "fim": "06/2023"
-      }
+      "name": "Desenvolvedor de Back-end / Núcleo Acesso à Terra Urbanizada",
+      "period": "08/2021 - 06/2023",
+      "descript": "Bolsista do projeto de extensão e iniciação cientifica Regularização Fundiária Urbana das Unidades Habitacionais dos Diversos Municípios que Compõem o Estado do Rio Grande do Norte (REURB). Projeto com foco no desenvolvimento de um sistema de regularização fundiária urbana voltado a garantir o direito à moradia por parte dos residentes de assentamentos informais.",
     },
     {
-      "name": "Desenvolvedor de Back-end",
-      "descricao": "Estágio",
-      "instituicao": "Brisanet Telecomunicações",
-      "periodo": {
-        "inicio": "11/2022",
-        "fim": "01/2023"
-      }
+      "name": "Desenvolvedor de Back-end / Brisanet Telecomunicações",
+      "period": "11/2022 - 01/2023",
+      "descript": "Estágio"
     }
   ]
 }
