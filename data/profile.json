@@ -1,5 +1,5 @@
 {
-  "nome": "Luan G Dantas",
+  "name": "Luan G Dantas",
   "photo": "https://media.licdn.com/dms/image/D4D03AQEue_OVYwCUFQ/profile-displayphoto-shrink_400_400/0/1687449882794?e=1695254400&v=beta&t=dD58tywLAhUncJw9yOMeM16RQSaIIR_RN7cQGIIJqDY",
   "job": "Desenvolvedor Full-Stack",
   "location": "Pau dos Ferros - RN, Brasil",
@@ -8,27 +8,27 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "NodeJS",
+        "name": "NodeJS",
         "logo": "https://raw.githubusercontent.com/LuanGDantas/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "nome": "ReactJS",
+        "name": "ReactJS",
         "logo": "https://raw.githubusercontent.com/LuanGDantas/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "nome": "PostgrsSQL",
+        "name": "PostgrsSQL",
         "logo": "https://raw.githubusercontent.com/LuanGDantas/js-developer-portfolio/main/data/imgs/postgresql.png"
       },
       {
-        "nome": "Docker",
+        "name": "Docker",
         "logo": "https://raw.githubusercontent.com/LuanGDantas/js-developer-portfolio/main/data/imgs/docker.png"
       },
       {
-        "nome": "Git",
+        "name": "Git",
         "logo": "https://raw.githubusercontent.com/LuanGDantas/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
-        "nome": "GitHub",
+        "name": "GitHub",
         "logo": "https://raw.githubusercontent.com/LuanGDantas/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
@@ -42,30 +42,16 @@
     ]
   },
   "languages": ["Português BR"],
-  "educacao": [
+  "portfolio": [
     {
-      "nome": "Bacharelado Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade Federal Rural do Semi-Árido (UFERSA)",
-      "periodo": {
-        "inicio": "2021",
-        "fim": "2023"
-      }
-    },
-    {
-      "nome": "Bacharelado em Tecnologia da Informação",
-      "descricao": "",
-      "instituicao": "Universidade Federal Rural do Semi-Árido (UFERSA)",
-      "periodo": {
-        "inicio": "2017",
-        "fim": "2021"
-      }
+      "name": "Pokédex utilizando HTML, CSS e JavaScript",
+      "url": "https://github.com/LuanGDantas/pokedex",
+      "git": true
     }
   ],
-  "portfolio": [],
   "experiencias": [
     {
-      "nome": "Desenvolvedor de Back-end",
+      "name": "Desenvolvedor de Back-end",
       "descricao": "Bolsista do projeto de extensão e iniciação cientifica Regularização Fundiária Urbana das Unidades Habitacionais dos Diversos Municípios que Compõem o Estado do Rio Grande do Norte (REURB). Projeto com foco no desenvolvimento de um sistema de regularização fundiária urbana voltado a garantir o direito à moradia por parte dos residentes de assentamentos informais.",
       "instituicao": "Núcleo Acesso à Terra Urbanizada",
       "periodo": {
@@ -74,7 +60,7 @@
       }
     },
     {
-      "nome": "Desenvolvedor de Back-end",
+      "name": "Desenvolvedor de Back-end",
       "descricao": "Estágio",
       "instituicao": "Brisanet Telecomunicações",
       "periodo": {
