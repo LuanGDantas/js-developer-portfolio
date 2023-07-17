@@ -41,12 +41,7 @@
       "Flexibilidade"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    }
-  ],
+  "languages": ["Português BR"],
   "educacao": [
     {
       "nome": "Bacharelado Engenharia de Computação",
